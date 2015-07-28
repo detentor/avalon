@@ -19,9 +19,6 @@ public class Round
 	private MissionResult result;
 
 	
-	
-	
-	
 	public Player getLeader()
 	{
 		return leader;
@@ -45,10 +42,4 @@ public class Round
 		}
 		return result;
 	}
-
-	
-	
-	
-	
-	
 }
